@@ -6,27 +6,27 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T10:22:28.292Z'
-dateModified: '2016-01-23T10:22:05.575Z'
+datePublished: '2016-01-23T10:27:13.293Z'
+dateModified: '2016-01-23T10:27:10.420Z'
 title: EN DAN NU AAN DE BAK
 author: []
+sourcePath: _posts/2016-01-23-en-dan-nu-aan-de-bak.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-en-dan-nu-aan-de-bak.md
-published: true
 url: en-dan-nu-aan-de-bak/index.html
 _type: Article
 
 ---
+# EN DAN NU AAN DE BAK
+
 _PAROOL ZATERDAG 16 JANUARI 2016, door ANOUK VLEUGELS_
 
 ## De eerste lichting studenten van de B. Startup School Amsterdam wordt in negen maanden omgeschoold tot programmeur. De baanperspectieven zijn goed, maar de opleiding vergt ook offers. 'Het is pompen of verzuipen.' 
-
-# EN DAN NU AAN DE BAK
 
 Een afgestudeerd archeoloog tapt uw biertje. Een pedagoog controleert uw kaartje in de bioscoop. Het is een probleem dat al jaren speelt: hoogopgeleide jongeren werken onder hun niveau omdat ze geen baan in hun eigen vakgebied kunnen vinden. Tegelijkertijd heeft het groeiende aantal startups in Nederland een tekort aan programmeurs en ontwerpers. B. Startup School Amsterdam (BSSA) probeert dit probleem op te lossen door jonge werklozen om te scholen tot programmeurs, websitebouwers, designers en online marketeers. Particuliere opleiders uit Stockholm, New York, Parijs en Amsterdam stomen de kandidaten klaar in drie maanden fulltime studietijd, waarna die zes maanden een traineeship volgen en aan de slag kunnen bij een bedrijf. Meestal betreft het een startup, aangezien het programma zich daar voornamelijk op richt.
 
