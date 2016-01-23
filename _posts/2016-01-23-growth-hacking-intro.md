@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T10:22:18.338Z'
-dateModified: '2016-01-23T10:02:13.527Z'
+datePublished: '2016-01-23T10:24:29.641Z'
+dateModified: '2016-01-23T10:24:03.487Z'
 title: Growth Hacking - INTRO
 author: []
+sourcePath: _posts/2016-01-23-growth-hacking-intro.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-23-growth-hacking-intro.md
-published: true
 url: growth-hacking-intro/index.html
 _type: Article
 
