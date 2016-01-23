@@ -1,0 +1,28 @@
+name: KNGDRN
+favicon: null
+layout_spectrum: 0.9668673747219145
+typography_spectrum: 0.6023455306421965
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.8411604384891689
+  lightness: 0.6116417818702757
+  saturation: 0.609835046576336
+  rhythmicContrast: 0.6446279196534306
+purpose: []
