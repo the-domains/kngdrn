@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-23T10:27:13.293Z'
+datePublished: '2016-01-23T10:27:13.372Z'
 dateModified: '2016-01-23T10:27:10.420Z'
 title: EN DAN NU AAN DE BAK
 author: []
